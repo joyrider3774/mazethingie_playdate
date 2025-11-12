@@ -1,0 +1,7 @@
+name=MazeThingie
+author=Willems Davy aka Joyrider3774
+description=Maze generator & player
+bundleID=com.joyrider3774.mazethingie
+version=1.0
+imagePath=metadata
+buildNumber=1
